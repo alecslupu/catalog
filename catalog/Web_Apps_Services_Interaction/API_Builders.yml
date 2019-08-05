@@ -20,3 +20,4 @@ projects:
   - versionist
   - windsor
   - xmlrpc-rack_server
+  - jb
